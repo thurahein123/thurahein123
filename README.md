@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thura Hein</h1>
-<h3 align="center">A passionate junior backend developer from Yangon</h3>
+<h3 align="center">A passionate junior web developer from Yangon</h3>
 
 <p align="left"> <a href="https://twitter.com/heinerry" target="blank"><img src="https://img.shields.io/twitter/follow/heinerry?logo=twitter&style=for-the-badge" alt="heinerry" /></a> </p>
 
